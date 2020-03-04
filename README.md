@@ -1,15 +1,15 @@
-<p align="center"><img src="images/slides/MyAnimeList_Recommender_00.png" /></p>
-<p align="center"><img src="images/slides/MyAnimeList_Recommender_01.png" /></p>
-<p align="center"><img src="images/slides/MyAnimeList_Recommender_02.png" /></p>
-<p align="center"><img src="images/slides/MyAnimeList_Recommender_03.png" /></p>
-<p align="center"><img src="images/slides/MyAnimeList_Recommender_04.png" /></p>
-<p align="center"><img src="images/slides/MyAnimeList_Recommender_05.png" /></p>
-<p align="center"><img src="images/slides/MyAnimeList_Recommender_06.png" /></p>
-<p align="center"><img src="images/slides/MyAnimeList_Recommender_07.png" /></p>
-<p align="center"><img src="images/slides/MyAnimeList_Recommender_08.png" /></p>
-<p align="center"><img src="images/slides/MyAnimeList_Recommender_09.png" /></p>
-<p align="center"><img src="images/slides/MyAnimeList_Recommender_10.png" /></p>
-<p align="center"><img src="images/slides/MyAnimeList_Recommender_11.png" /></p>
+<p align="center"><img src="images/slides/Memorable_Quotes_NLP_00.png" /></p>
+<p align="center"><img src="images/slides/Memorable_Quotes_NLP_01.png" /></p>
+<p align="center"><img src="images/slides/Memorable_Quotes_NLP_02.png" /></p>
+<p align="center"><img src="images/slides/Memorable_Quotes_NLP_03.png" /></p>
+<p align="center"><img src="images/slides/Memorable_Quotes_NLP_04.png" /></p>
+<p align="center"><img src="images/slides/Memorable_Quotes_NLP_05.png" /></p>
+<p align="center"><img src="images/slides/Memorable_Quotes_NLP_06.png" /></p>
+<p align="center"><img src="images/slides/Memorable_Quotes_NLP_07.png" /></p>
+<p align="center"><img src="images/slides/Memorable_Quotes_NLP_08.png" /></p>
+<p align="center"><img src="images/slides/Memorable_Quotes_NLP_09.png" /></p>
+<p align="center"><img src="images/slides/Memorable_Quotes_NLP_10.png" /></p>
+<p align="center"><img src="images/slides/Memorable_Quotes_NLP_11.png" /></p>
 
 @InProceedings{Danescu-Niculescu-Mizil+al:12b,
 
